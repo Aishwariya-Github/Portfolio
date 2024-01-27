@@ -1,4 +1,4 @@
--- QUERIES FOR PORTFOLIO PROJECT
+-- QUERIES FOR PORTFOLIO PROJECT 1
 
 select *
 from PortfolioProject..CovidDeaths
